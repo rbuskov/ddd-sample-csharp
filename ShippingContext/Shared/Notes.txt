@@ -1,0 +1,9 @@
+﻿DDD in C# 8
+
+- Avoid nulls (null pattern)
+- Use tuples for composite ids
+- Specification interface implements methods
+- Enum extension methods
+- Static constructor on ValueObject and Entity to validate T
+
+- How is ValueObject different from Entity?
